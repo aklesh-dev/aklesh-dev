@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-
 <h1 align="center"> 👋 I'm Aklesh Yadav</h1>
 <h3 align="center">A MERN-stack developer</h3>
 
@@ -34,5 +32,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=aklesh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aklesh-dev&theme=dark&" alt="aklesh-dev" /></p>
-
-
