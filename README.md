@@ -28,10 +28,11 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aklesh-dev&show_icons=true&locale=en&layout=compact" alt="aklesh-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aklesh-dev&theme=radical&show_icons=true&locale=en&layout=compact" alt="aklesh-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aklesh-dev&show_icons=true&locale=en" alt="aklesh-dev" /></p>
+<!-- (https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) -->
+![](https://github-readme-stats.vercel.app/api?username=aklesh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aklesh-dev&" alt="aklesh-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aklesh-dev&theme=dark&" alt="aklesh-dev" /></p>
 
 
