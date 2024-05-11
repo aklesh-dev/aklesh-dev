@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center"> 👋 I'm Aklesh Yadav</h1>
+<h1 > 👋 Hi, I'm Aklesh Yadav</h1>
 <h3 align="center">A MERN-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aklesh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aklesh-dev" /> </p>
