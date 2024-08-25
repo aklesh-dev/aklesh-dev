@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://fb.com/akleshyadav.998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akleshyadav.998" height="30" width="40" /></a>
 <a href="https://instagram.com/akleshyadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akleshyadav_" height="30" width="40" /></a>
+<a href="https://instagram.com/akleshyadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="akleshyadav_" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack
