@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aklesh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aklesh-dev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://aklesh-dev.github.io/](https://aklesh-dev.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://aklesh-dev.github.io/](https://aklesh-dev.github.io/) -->
 
 - 💬 Ask me about **react, nodeJs, python**
 
