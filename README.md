@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Aklesh Yadav and I'm a Mern stack Dev, from Nepal</p>
+<p align="left">
+  My name is <strong>Aklesh Yadav</strong> and I'm a <strong>MERN Stack Developer</strong> from <strong>Nepal 🇳🇵</strong>.
+</p>
 
 ###
 
@@ -10,7 +12,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Creating bugs since <strong>2022</strong><br>
+  📚 Currently learning <strong>advanced React patterns, system design, and backend architecture</strong><br>
+  🎯 Goals: <strong>Build scalable web applications & grow as a full-stack engineer</strong><br>
+  🎲 Fun fact: <strong>I enjoy debugging more than writing new code</strong>
+</p>
 
 ###
 
@@ -19,21 +26,43 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 </div>
 
 ###
+
+<h2 align="left">What I focus on</h2>
+
+###
+
+<p align="left">
+  • Writing clean, maintainable, and scalable React applications<br>
+  • State management with Redux / Zustand<br>
+  • API design and backend logic with Node.js & NestJS<br>
+  • Performance optimization and clean UI architecture
+</p>
+
+###
+
+<h2 align="left">Let’s connect</h2>
+
+###
+
+<p align="left">
+  💼 Open to collaboration on real-world projects<br>
+  🚀 Interested in full-stack and frontend-heavy roles
+</p>
