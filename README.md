@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-  ✨ Creating bugs since <strong>2022</strong><br>
+  ✨ Creating bugs since <strong>2019</strong><br>
   📚 Currently learning <strong>advanced React patterns, system design, and backend architecture</strong><br>
   🎯 Goals: <strong>Build scalable web applications & grow as a full-stack engineer</strong><br>
   🎲 Fun fact: <strong>I enjoy debugging more than writing new code</strong>
