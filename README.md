@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aklesh Yadav and I'm a ..., from ....</p>
+<p align="left">My name is Aklesh Yadav and I'm a Mern stack Dev, from Nepal</p>
 
 ###
 
