@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aklesh-dev&theme=radical&show_icons=true&locale=en&layout=compact" alt="aklesh-dev" /></p>
 
- ![](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) 
-![](https://github-readme-stats.vercel.app/api?username=aklesh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ <!-- (https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file) 
+![](https://github-readme-stats.vercel.app/api?username=aklesh-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aklesh-dev&theme=dark&" alt="aklesh-dev" /></p>
