@@ -1,27 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 I'm Aklesh Yadav
+
+### Software Engineer | Full-Stack (PERN & Go) | Mobile (React Native)
 
 ###
 
-<p align="left">
-  My name is <strong>Aklesh Yadav</strong> and I'm a <strong>MERN Stack Developer</strong> from <strong>Nepal 🇳🇵</strong>.
-</p>
+
+<h2 align="left"> 🚀 About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<!-- <p align="left"> -->
+I am a **Full-Stack Software Engineer** dedicated to building secure, high-performance financial applications. Currently working as a Software Developer in the **Fintech sector**, I specialize in creating seamless user experiences while maintaining robust backend systems across Web & Mobile.
+<!-- </p> -->
 
 ###
 
-<p align="left">
-  ✨ Creating bugs since <strong>2019</strong><br>
-  📚 Currently learning <strong>advanced React patterns, system design, and backend architecture</strong><br>
-  🎯 Goals: <strong>Build scalable web applications & grow as a full-stack engineer</strong><br>
-  🎲 Fun fact: <strong>I enjoy debugging more than writing new code</strong>
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left"> 🛠️ My Technical Arsenal
+</h2>
 
 ###
 
@@ -47,16 +42,20 @@
 
 ###
 
-<h2 align="left">What I focus on</h2>
+ <h2 align="left"> 
+  📂 Current Focus & Open Source (Public PoCs)
+ </h2>
 
 ###
 
-<p align="left">
-  • Writing clean, maintainable, and scalable React applications<br>
-  • State management with Redux / Zustand<br>
-  • API design and backend logic with Node.js & NestJS<br>
-  • Performance optimization and clean UI architecture
-</p>
+<!-- <p align="left"> -->
+  *I build public "proof-of-concept" projects to experiment with system architecture and security.*
+  
+- **Go-Financial-Engine:** A high-concurrency transaction engine for low-latency financial logging.
+- **Secure-UI:** A shared component library optimized for React and React Native environments.
+- **Auth-Protocols:** Prototyping secure transaction flows using local testnets.
+
+<!-- </p> -->
 
 ###
 
@@ -64,7 +63,6 @@
 
 ###
 
-<p align="left">
-  💼 Open to collaboration on real-world projects<br>
-  🚀 Interested in full-stack and frontend-heavy roles
-</p>
+<!-- <p align="left"> -->
+  I’m always open to talking about **Go routines**, **React architectures**, or the **future of Fintech**.
+<!-- </p> -->
